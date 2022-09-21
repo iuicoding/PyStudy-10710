@@ -11,7 +11,7 @@ alist[1, 2, 3, 4, 5]
 
 
 if 1 in alist:
-    print("1이 있내")
+    print("1이 있내5")
 
 if 99 not in alist:
     print("99없음")
